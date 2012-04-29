@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo">
+  <data type="other">
+    <location href="repodata/other.xml.gz"/>
+    <checksum type="sha">b8891415f5d662bc8344e855baf15f452ed04209</checksum>
+    <timestamp>1335711209</timestamp>
+    <open-checksum type="sha">91ded580bd6cc11e316be30b2843acbee0f580d6</open-checksum>
+  </data>
+  <data type="filelists">
+    <location href="repodata/filelists.xml.gz"/>
+    <checksum type="sha">7f65e991d545fdec916e5cadaeccf479faa45963</checksum>
+    <timestamp>1335711209</timestamp>
+    <open-checksum type="sha">d349098e9c5e9b14d505bcbd7cd3a476a5b32e01</open-checksum>
+  </data>
+  <data type="primary">
+    <location href="repodata/primary.xml.gz"/>
+    <checksum type="sha">6885877a39111e9e8208c41dcb206e3d22315867</checksum>
+    <timestamp>1335711209</timestamp>
+    <open-checksum type="sha">89f6410e5f32760d46a10926f2d7106a01f0ca67</open-checksum>
+  </data>
+</repomd>
